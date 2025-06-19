@@ -200,7 +200,4 @@ This project is licensed under the MIT License.
 - Reading progress tracking
 - Integration with external book APIs
 
-## Support
 
-For support or questions, please open an issue in the GitHub repository.
-\`\`\`
